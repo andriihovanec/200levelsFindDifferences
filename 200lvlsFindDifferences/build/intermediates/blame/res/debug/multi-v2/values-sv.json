@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Project\\WorkProject\\200 levels Find Differences\\200lvlsFindDifferences\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\66e56c8e78cef1423bc0039945913c50\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,350,539,664,772,972,1095,1244,1373,1580,1686,1879,2005,2218,2400,2492,2581",
+                        "endColumns": "104,188,124,107,199,122,148,128,206,105,192,125,212,181,91,88,103",
+                        "endOffsets": "349,538,663,771,971,1094,1243,1372,1579,1685,1878,2004,2217,2399,2491,2580,2684"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "172,281,470,599,711,911,1038,1191,1531,1738,1848,2041,2171,2384,2570,2666,2759",
+                        "endColumns": "108,188,128,111,199,126,152,132,206,109,192,129,212,185,95,92,107",
+                        "endOffsets": "276,465,594,706,906,1033,1186,1319,1733,1843,2036,2166,2379,2565,2661,2754,2862"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\8251d56b98adcf366cb16269155dc025\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "206",
+                        "endOffsets": "453"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "1324",
+                        "endColumns": "206",
+                        "endOffsets": "1526"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ff2314c274ccd5206a4e31674384aeb2\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3757",
+                        "endColumns": "100",
+                        "endOffsets": "3853"
+                    }
+                },
+                {
+                    "source": "E:\\Project\\WorkProject\\200 levels Find Differences\\200lvlsFindDifferences\\src\\main\\res\\values-sv\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,3,7,8,4,9,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,265,122,306,347,161,383,230",
+                        "endColumns": "66,40,38,40,35,68,62,34",
+                        "endOffsets": "117,301,156,342,378,225,441,260"
+                    },
+                    "to": {
+                        "startLines": "2,21,22,23,24,25,26,35",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,2867,2908,2947,2988,3024,3093,3858",
+                        "endColumns": "66,40,38,40,35,68,62,34",
+                        "endOffsets": "167,2903,2942,2983,3019,3088,3151,3888"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.1.aar\\228168aa0f8ca8c1ad339b57aa7ea0e4\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,264,377,442,512,592,702",
+                        "endColumns": "66,112,64,69,79,109,67",
+                        "endOffsets": "263,376,441,511,591,701,769"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3156,3227,3344,3413,3487,3571,3685",
+                        "endColumns": "70,116,68,73,83,113,71",
+                        "endOffsets": "3222,3339,3408,3482,3566,3680,3752"
+                    }
+                }
+            ]
+        }
+    ]
+}

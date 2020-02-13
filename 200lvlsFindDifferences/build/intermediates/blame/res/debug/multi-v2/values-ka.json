@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Project\\WorkProject\\200 levels Find Differences\\200lvlsFindDifferences\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ff2314c274ccd5206a4e31674384aeb2\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3781",
+                        "endColumns": "100",
+                        "endOffsets": "3877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\8251d56b98adcf366cb16269155dc025\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "1350",
+                        "endColumns": "201",
+                        "endOffsets": "1547"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.1.aar\\228168aa0f8ca8c1ad339b57aa7ea0e4\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,269,376,440,505,589,697",
+                        "endColumns": "71,106,63,64,83,107,72",
+                        "endOffsets": "268,375,439,504,588,696,769"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3180,3256,3367,3435,3504,3592,3704",
+                        "endColumns": "75,110,67,68,87,111,76",
+                        "endOffsets": "3251,3362,3430,3499,3587,3699,3776"
+                    }
+                },
+                {
+                    "source": "E:\\Project\\WorkProject\\200 levels Find Differences\\200lvlsFindDifferences\\src\\main\\res\\values-ka\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,3,7,8,4,9,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,279,132,320,363,171,397,242",
+                        "endColumns": "76,40,38,42,33,70,60,36",
+                        "endOffsets": "127,315,166,358,392,237,453,274"
+                    },
+                    "to": {
+                        "startLines": "2,21,22,23,24,25,26,35",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,2891,2932,2971,3014,3048,3119,3882",
+                        "endColumns": "76,40,38,42,33,70,60,36",
+                        "endOffsets": "177,2927,2966,3009,3043,3114,3175,3914"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\66e56c8e78cef1423bc0039945913c50\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,348,529,655,763,976,1108,1256,1389,1621,1727,1913,2039,2259,2424,2516,2603",
+                        "endColumns": "102,180,125,107,212,131,147,132,231,105,185,125,219,164,91,86,100",
+                        "endOffsets": "347,528,654,762,975,1107,1255,1388,1620,1726,1912,2038,2258,2423,2515,2602,2703"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "182,289,470,600,712,925,1061,1213,1552,1784,1894,2080,2210,2430,2599,2695,2786",
+                        "endColumns": "106,180,129,111,212,135,151,136,231,109,185,129,219,168,95,90,104",
+                        "endOffsets": "284,465,595,707,920,1056,1208,1345,1779,1889,2075,2205,2425,2594,2690,2781,2886"
+                    }
+                }
+            ]
+        }
+    ]
+}

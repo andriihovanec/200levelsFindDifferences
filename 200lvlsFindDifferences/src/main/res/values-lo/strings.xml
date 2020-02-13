@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 ລະດັບຄົ້ນຫາຄວາມແຕກຕ່າງ</string>
+    <string name="level">ລະດັບການ</string>
+    <string name="quit">ທ່ານມີຄວາມແນ່ໃຈວ່າທ່ານຕ້ອງການທີ່ຈະຢຸດສູບໄດ້?</string>
+    <string name="yes">ທີ່</string>
+    <string name="later">ຕໍ່ມາ</string>
+    <string name="never">ບໍ່ເຄີຍ</string>
+    <string name="no">ບໍ່</string>
+    <string name="rate">ທ່ານຢາກຈະກັບອັດຕາເກມໃນປັດຈຸບັນ?</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 tasoa Etsi eroavaisuudet</string>
+    <string name="level">Taso</string>
+    <string name="quit">Haluatko varmasti lopettaa?</string>
+    <string name="yes">Kyllä</string>
+    <string name="later">Myöhemmin</string>
+    <string name="never">Ei koskaan</string>
+    <string name="no">Ei</string>
+    <string name="rate">Haluatko Arvioi peli nyt?</string>
+</resources>

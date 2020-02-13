@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 razina Pronađite razlike</string>
+    <string name="level">Nivo</string>
+    <string name="quit">Jeste li sigurni da želite izaći?</string>
+    <string name="yes">Da</string>
+    <string name="later">Kasnije</string>
+    <string name="never">Nikad</string>
+    <string name="no">Ne</string>
+    <string name="rate">Želite li ocijeniti igru sada?</string>
+</resources>

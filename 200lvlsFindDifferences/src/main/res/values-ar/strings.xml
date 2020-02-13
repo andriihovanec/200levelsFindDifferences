@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 مستويات البحث عن الاختلافات</string>
+    <string name="level">مستوى</string>
+    <string name="quit">هل أنت متأكد من أنك تريد الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="later">فيما بعد</string>
+    <string name="never">أبدا</string>
+    <string name="no">ليس</string>
+    <string name="rate">تريد أن معدل اللعبة الآن؟</string>
+</resources>

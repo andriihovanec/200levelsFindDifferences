@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 levels Find Differences </string>
+    <string name="level">Level</string>
+    <string name="quit">Are you sure you want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="later">Later</string>
+    <string name="never">Never</string>
+    <string name="no">No</string>
+    <string name="rate">Would you like to rate game now?</string>
+    <string name="error">Error</string>
+    <string name="some_error">Error code 1. Please contact support olbigames@gmail.com</string>
+    <string name="download_failed">Failed to load game resources. Try to reinstall app or contact support olbigames@gmail.com</string>
+    <string name="close">Close</string>
+    <string name="downloading_assets">Loading game resources, please wait&#8230;</string>
+    <string name="share">Share</string>
+    <string name="backdesc">Back to menu</string>
+
+    <!--<string name="facebook_app_id"></string>-->
+
+
+   <string name="admob_app_id"></string>
+   <string name="banner_ad_unit_id_1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id_2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interst_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+
+
+</resources>
+
+<!--Please rate this game in the App Store.-->

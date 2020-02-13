@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 niveluri Găsiți diferențele</string>
+    <string name="level">Nivel</string>
+    <string name="quit">Sigur doriți să părăsiți?</string>
+    <string name="yes">Da</string>
+    <string name="later">Mai târziu</string>
+    <string name="never">Niciodată</string>
+    <string name="no">Nu</string>
+    <string name="rate">Doriți să evalua joc acum?</string>
+</resources>

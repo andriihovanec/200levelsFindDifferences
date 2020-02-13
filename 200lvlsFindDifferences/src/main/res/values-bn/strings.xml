@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 মাত্রা পার্থক্য খুঁজুন</string>
+    <string name="level">শ্রেনী</string>
+    <string name="quit">আপনি প্রস্থান করার জন্য আপনি কি নিশ্চিত?</string>
+    <string name="yes">হাঁ</string>
+    <string name="later">পরে</string>
+    <string name="never">না</string>
+    <string name="no">না</string>
+    <string name="rate">আপনি এখন গেমটি রেট দিতে চান?</string>
+</resources>

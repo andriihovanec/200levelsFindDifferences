@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 cấp độ Tìm điểm khác nhau</string>
+    <string name="level">Trình độ</string>
+    <string name="quit">Bạn có chắc chắn bạn muốn bỏ thuốc lá?</string>
+    <string name="yes">Vâng</string>
+    <string name="later">Sau</string>
+    <string name="never">Không bao giờ</string>
+    <string name="no">Không</string>
+    <string name="rate">Bạn có muốn để xếp hạng trò chơi bây giờ?</string>
+</resources>

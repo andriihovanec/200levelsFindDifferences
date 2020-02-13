@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 úrovní Najít rozdíly</string>
+    <string name="level">úroveň</string>
+    <string name="quit">Jste si jisti, že chcete skončit?</string>
+    <string name="yes">ano</string>
+    <string name="later">později</string>
+    <string name="never">nikdy</string>
+    <string name="no">ne</string>
+    <string name="rate">Chcete ohodnotit hru teď?</string>
+</resources>

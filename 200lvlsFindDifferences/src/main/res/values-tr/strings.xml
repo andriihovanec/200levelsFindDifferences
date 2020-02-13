@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 seviyeleri Farkı Bul</string>
+    <string name="level">Seviye</string>
+    <string name="quit">Eğer çıkmak istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="later">Daha sonra</string>
+    <string name="never">Asla</string>
+    <string name="no">Değil</string>
+    <string name="rate">Şimdi oyunu Oranı ister misiniz?</string>
+</resources>

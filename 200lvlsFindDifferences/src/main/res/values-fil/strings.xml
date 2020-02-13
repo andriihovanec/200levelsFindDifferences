@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 mga antas Hanapin ang Mga Pagkakaiba</string>
+    <string name="level">Antas</string>
+    <string name="quit">Sigurado ka bang gusto mong umalis?</string>
+    <string name="yes">Oo</string>
+    <string name="later">Mamaya</string>
+    <string name="never">Hindi kailanman</string>
+    <string name="no">Hindi</string>
+    <string name="rate">Gusto mo bang upang i-rate laro ngayon?</string>
+</resources>

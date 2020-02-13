@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 سطح یافتن تفاوت</string>
+    <string name="level">سطح</string>
+    <string name="quit">آیا مطمئن هستید که می خواهید به ترک؟</string>
+    <string name="yes">بله</string>
+    <string name="later">بعد</string>
+    <string name="never">هرگز</string>
+    <string name="no">نه</string>
+    <string name="rate">آیا می خواهید به سرعت بازی در حال حاضر؟</string>
+</resources>

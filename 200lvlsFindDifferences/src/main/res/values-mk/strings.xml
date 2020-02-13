@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 нивоа Најди ги разликите</string>
+    <string name="level">Ниво</string>
+    <string name="quit">Дали сте сигурни дека сакате да напуштите?</string>
+    <string name="yes">Да</string>
+    <string name="later">Подоцна</string>
+    <string name="never">Никогаш</string>
+    <string name="no">Не</string>
+    <string name="rate">Дали сакате да ја оценат играта сега?</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 स्तर फरक शोधा</string>
+    <string name="level">पातळी</string>
+    <string name="quit">आपण बाहेर पडायचे आहे का?</string>
+    <string name="yes">होय</string>
+    <string name="later">नंतर</string>
+    <string name="never">कधीही</string>
+    <string name="no">नाही</string>
+    <string name="rate">आपण आता खेळ रेट करू इच्छिता?</string>
+</resources>

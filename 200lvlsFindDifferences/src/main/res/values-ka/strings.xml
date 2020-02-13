@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 ಮಟ್ಟಗಳು ವ್ಯತ್ಯಾಸಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ</string>
+    <string name="level">დონე</string>
+    <string name="quit">დარწმუნებული ხართ, რომ გინდათ გასვლა?</string>
+    <string name="yes">დიახ</string>
+    <string name="later">შემდეგ</string>
+    <string name="never">არასოდეს</string>
+    <string name="no">არ</string>
+    <string name="rate">გსურთ შეფასება თამაში ახლა?</string>
+</resources>

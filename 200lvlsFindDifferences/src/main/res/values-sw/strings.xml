@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viwango 200 Pata Tofauti</string>
+    <string name="level">Level</string>
+    <string name="quit">Je, una uhakika unataka kuacha?</string>
+    <string name="yes">Ndiyo</string>
+    <string name="later">Baadaye</string>
+    <string name="never">Kamwe</string>
+    <string name="no">Si</string>
+    <string name="rate">Je, ungependa kiwango mchezo sasa?</string>
+</resources>

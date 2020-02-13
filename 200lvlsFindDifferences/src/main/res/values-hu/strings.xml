@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 szint Keress a különbségeket</string>
+    <string name="level">Szint</string>
+    <string name="quit">Biztosan ki akarsz lépni?</string>
+    <string name="yes">Igen</string>
+    <string name="later">Később</string>
+    <string name="never">Soha</string>
+    <string name="no">Nem</string>
+    <string name="rate">Szeretnél értékeléshez játékot most?</string>
+</resources>

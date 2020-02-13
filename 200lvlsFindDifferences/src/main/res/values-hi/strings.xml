@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 स्तर मतभेद खोजें</string>
+    <string name="level">स्तर</string>
+    <string name="quit">आप आप छोड़ने के लिए चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="later">बाद में</string>
+    <string name="never">कभी</string>
+    <string name="no">नहीं</string>
+    <string name="rate">आप की दर और अब समीक्षा के खेल करना चाहेंगे?</string>
+</resources>

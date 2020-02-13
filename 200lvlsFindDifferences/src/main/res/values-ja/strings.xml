@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">二百レベルの違いを見つける</string>
+    <string name="level">レベル</string>
+    <string name="quit">本当に終了しますか？</string>
+    <string name="yes">はい</string>
+    <string name="later">後で</string>
+    <string name="never">決して</string>
+    <string name="no">ノー</string>
+    <string name="rate">このゲームを評価して頂けますか?</string>
+    <string name="error">エラー</string>
+    <string name="download_failed">ゲームリソースのロードに失敗しました。アプリや連絡先のサポートを再インストールしよう。</string>
+    <string name="close">クローズ</string>
+    <string name="downloading_assets">ロードゲームリソース、お待ちください&#8230;</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116872846174",
+    "firebase_url": "https://levels200finddifferences.firebaseio.com",
+    "project_id": "levels200finddifferences",
+    "storage_bucket": "levels200finddifferences.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116872846174:android:fe71c2283dd3303b",
+        "android_client_info": {
+          "package_name": "com.olbigames.levels200finddifferences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116872846174-ekqlr4suf4rme1hvhb4pf8h7okee8ioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKG0gW7Y1F3wBlFkpjbBd1jsIrGDDTIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

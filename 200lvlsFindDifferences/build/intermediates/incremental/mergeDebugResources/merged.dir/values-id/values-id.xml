@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 level Temukan Perbedaan</string>
+    <string name="later">Kemudian</string>
+    <string name="level">Tingkat</string>
+    <string name="never">Tak pernah</string>
+    <string name="no">Tidak</string>
+    <string name="quit">Apakah Anda yakin ingin keluar?</string>
+    <string name="rate">Apakah Anda ingin menilai game sekarang?</string>
+    <string name="yes">Iya Nih</string>
+</resources>

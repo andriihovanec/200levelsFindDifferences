@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 Stufen Finde die Unterschiede</string>
+    <string name="level">Level</string>
+    <string name="quit">Bist du sicher, aufzuhören?</string>
+    <string name="yes">Ja</string>
+    <string name="later">Später</string>
+    <string name="never">Nie</string>
+    <string name="no">Nein</string>
+    <string name="rate">Möchten Sie unser Spiel jetzt bewerten?</string>
+</resources>

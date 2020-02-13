@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 επίπεδα Βρείτε τις διαφορές</string>
+    <string name="level">επίπεδο</string>
+    <string name="quit">Είστε σίγουροι ότι θέλετε να κλείσετε?</string>
+    <string name="yes">ναί</string>
+    <string name="later">αργότερα</string>
+    <string name="never">ποτέ</string>
+    <string name="no">δεν</string>
+    <string name="rate">Θέλετε να βαθμολογήσετε το παιχνίδι τώρα?</string>
+</resources>

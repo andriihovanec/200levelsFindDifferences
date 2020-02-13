@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 நிலைகள் வேறுபாடுகளை கண்டறிய</string>
+    <string name="level">நிலை</string>
+    <string name="quit">நீங்கள் வெளியேற வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா?</string>
+    <string name="yes">ஆம்</string>
+    <string name="later">பின்னர்</string>
+    <string name="never">இல்லை</string>
+    <string name="no">No</string>
+    <string name="rate">நீங்கள் இப்போது விளையாட்டு மதிப்பிடவும் விரும்புகிறீர்களா?</string>
+</resources>

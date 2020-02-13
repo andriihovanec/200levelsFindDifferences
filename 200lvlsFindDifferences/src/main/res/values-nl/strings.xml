@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 niveaus Zoek de verschillen</string>
+    <string name="level">Niveau</string>
+    <string name="quit">Weet u zeker dat u wilt afsluiten?</string>
+    <string name="yes">Ja</string>
+    <string name="later">Later</string>
+    <string name="never">Nooit</string>
+    <string name="no">Niet</string>
+    <string name="rate">Wil je spel nu waardeert?</string>
+</resources>

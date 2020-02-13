@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200级找到差异</string>
+    <string name="later">后来</string>
+    <string name="level">水平</string>
+    <string name="never">从来没有</string>
+    <string name="no">无</string>
+    <string name="quit">确定退出？</string>
+    <string name="rate">你想评分和评论，现在的游戏？</string>
+    <string name="yes">是的</string>
+</resources>

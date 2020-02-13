@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 уровней Найди отличия</string>
+    <string name="level">Уровень</string>
+    <string name="quit">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="later">Позже</string>
+    <string name="never">Никогда</string>
+    <string name="no">Нет</string>
+    <string name="rate">Вы хотите оценить и оставить комментарий об игре?</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 niveauer Find forskellene</string>
+    <string name="level">Level</string>
+    <string name="quit">Er du sikker på du vil afslutte?</string>
+    <string name="yes">Ja</string>
+    <string name="later">Senere</string>
+    <string name="never">Aldrig</string>
+    <string name="no">Ikke</string>
+    <string name="rate">Kunne du tænke dig at klassificere spillet nu?</string>
+</resources>

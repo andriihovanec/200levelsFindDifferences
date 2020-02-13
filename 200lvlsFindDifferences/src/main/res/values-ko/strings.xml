@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 가지 차이점 찾기</string>
+    <string name="level">수평</string>
+    <string name="quit">당신은 당신이 종료 하시겠습니까?</string>
+    <string name="yes">예</string>
+    <string name="later">나중에</string>
+    <string name="never">어머 놀랐다</string>
+    <string name="no">아니</string>
+    <string name="rate">이제 게임을 평가 하시겠습니까?</string>
+</resources>

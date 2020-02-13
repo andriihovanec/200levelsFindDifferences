@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appbrain:appbrain-sdk:15.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appbrain-sdk-15.11.aar/764e9f4346dae11344c6b50807828edb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appbrain-sdk-15.11.aar/764e9f4346dae11344c6b50807828edb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

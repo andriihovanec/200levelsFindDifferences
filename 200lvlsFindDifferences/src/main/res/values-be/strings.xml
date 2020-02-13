@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 узроўняў Знайсці адрозненні</string>
+    <string name="level">ўзровень</string>
+    <string name="quit">Вы ўпэўненыя, што хочаце выйсці?</string>
+    <string name="yes">Ды</string>
+    <string name="later">Пазней</string>
+    <string name="never">Ніколі не</string>
+    <string name="no">Ня</string>
+    <string name="rate">Хочаце, каб прагаласаваць гульню зараз?</string>
+</resources>

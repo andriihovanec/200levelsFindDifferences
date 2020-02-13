@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 níveis Encontre as diferenças</string>
+    <string name="download_failed">Falha ao carregar recursos do jogo. Tente reinstalar o aplicativo ou de apoio.</string>
+    <string name="error">Erro</string>
+    <string name="later">Mais tarde</string>
+    <string name="level">Nível</string>
+    <string name="never">Nunca</string>
+    <string name="no">Não</string>
+    <string name="quit">Você tem certeza que quer sair?</string>
+    <string name="rate">Desejas pontuar e fazer uma crítica do nosso jogo?</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="yes">Sim</string>
+</resources>

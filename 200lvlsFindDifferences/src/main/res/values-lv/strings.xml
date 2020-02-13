@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 līmeņi Atrodi atšķirības</string>
+    <string name="level">Līmenis</string>
+    <string name="quit">Vai tiešām vēlaties iziet?</string>
+    <string name="yes">Jā</string>
+    <string name="later">Vēlāk</string>
+    <string name="never">Nekad</string>
+    <string name="no">Nav</string>
+    <string name="rate">Jūs vēlētos, lai vērtētu spēli tagad?</string>
+</resources>

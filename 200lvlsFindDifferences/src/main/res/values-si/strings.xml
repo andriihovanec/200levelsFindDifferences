@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 මට්ටම් වෙනස්කම් සොයන්න</string>
+    <string name="level">පෙළ</string>
+    <string name="quit">ඔබව ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාසද?</string>
+    <string name="yes">ඔව්</string>
+    <string name="later">පසුව</string>
+    <string name="never">කිසිදා</string>
+    <string name="no">නැත</string>
+    <string name="rate">ඔබ දැන් ගේම් ශ්රේණිගත කිරීම සඳහා ඔබ කැමතිද?</string>
+</resources>

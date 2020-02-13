@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 ระดับค้นหาความแตกต่าง</string>
+    <string name="level">ชั้น</string>
+    <string name="quit">คุณแน่ใจหรือว่าต้องการที่จะเลิก?</string>
+    <string name="yes">ใช่</string>
+    <string name="later">ต่อมา</string>
+    <string name="never">ไม่เคย</string>
+    <string name="no">ไม่</string>
+    <string name="rate">คุณต้องการให้คะแนนเกมตอนนี้?</string>
+</resources>

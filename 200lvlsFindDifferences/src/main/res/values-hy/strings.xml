@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 մակարդակները գտնել տարբերություններ</string>
+    <string name="level">մակարդակ</string>
+    <string name="quit">Դուք համոզված եք, որ ցանկանում եք դուրս գալ.</string>
+    <string name="yes">այո</string>
+    <string name="later">ավելի ուշ</string>
+    <string name="never">երբեք</string>
+    <string name="no">ոչ</string>
+    <string name="rate">Ցանկանում եք գնահատում խաղը հիմա.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 ថ្នាក់រកភាពខុសគ្នា</string>
+    <string name="level">កម្រិត</string>
+    <string name="quit">តើអ្នកពិតជាចង់ចេញឬ?</string>
+    <string name="yes">បាទ</string>
+    <string name="later">ក្រោយមកទៀត</string>
+    <string name="never">មិនដែល</string>
+    <string name="no">មិនមាន</string>
+    <string name="rate">តើអ្នកចង់អត្រាការប្រកួតឥឡូវនេះ?</string>
+</resources>

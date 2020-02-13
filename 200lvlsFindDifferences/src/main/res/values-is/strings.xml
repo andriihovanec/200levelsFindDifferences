@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 stig Finndu muninn</string>
+    <string name="level">Level</string>
+    <string name="quit">Ertu viss um að þú viljir hætta?</string>
+    <string name="yes">Já</string>
+    <string name="later">Síðar</string>
+    <string name="never">Aldrei</string>
+    <string name="no">Ekki</string>
+    <string name="rate">Vilt þú áhuga á að gefa leikinn núna?</string>
+</resources>

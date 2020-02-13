@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Project\\WorkProject\\200 levels Find Differences\\200lvlsFindDifferences\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-rm\\values-rm.xml",
+            "map": [
+                {
+                    "source": "E:\\Project\\WorkProject\\200 levels Find Differences\\200lvlsFindDifferences\\src\\main\\res\\values-rm\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,3,7,8,4,9,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,260,120,300,340,160,374,224",
+                        "endColumns": "64,39,39,39,33,63,65,35",
+                        "endOffsets": "115,295,155,335,369,219,435,255"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,160,200,240,274,338,404",
+                        "endColumns": "64,39,39,39,33,63,65,35",
+                        "endOffsets": "115,155,195,235,269,333,399,435"
+                    }
+                }
+            ]
+        }
+    ]
+}

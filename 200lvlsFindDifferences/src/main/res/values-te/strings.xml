@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 స్థాయిలు తేడాలు వెతుకుము</string>
+    <string name="level">స్థాయి</string>
+    <string name="quit">మీరు నిష్క్రమించాలి అనుకుంటున్నారా భావిస్తున్నారా?</string>
+    <string name="yes">అవును</string>
+    <string name="later">తరువాత</string>
+    <string name="never">నెవర్</string>
+    <string name="no">కాదు</string>
+    <string name="rate">మీరు ఇప్పుడు గేమ్ రేట్ చెయ్యాలనుకుంటే?</string>
+</resources>

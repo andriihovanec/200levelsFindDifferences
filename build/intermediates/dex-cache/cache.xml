@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\49d17cce8029de16f86bd6c6259a48d9f7e5b1ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c2cfd81e27c9ad5ab43e9eacb6b97d9f2363ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\StudioProjects\Find the Difference 200 lvls\findtheDifference200lvls\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edf981a559f5619d81a53d2cda528740e960feb5">
+        <dex dex="C:\StudioProjects\Find the Difference 200 lvls\findtheDifference200lvls\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_92dcdbc714b4c46dbff188425d4dda7a7bf053c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\StudioProjects\Find Differences 200 levels 2\facebookSDK\build\intermediates\bundles\default\libs\bolts-android-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7b469c3daeb365261419cebcc3d8ef2ad31b00e">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.2_680055ffb3134c376323d5c735725073f721fd54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\4ccb74977e2382ceedbf931c5a1b4e9b2ae57630\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8b9ba2d79c18c81dd79df7b87808979c033976e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\5ebe8ebb4b0cb9fb68943a2eff411755ce7663ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abfbf4631baad93f94e7223303bf2c8a2e53986c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\StudioProjects\Find the Difference 200 lvls\facebookSDK\build\intermediates\bundles\default\libs\bolts-android-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7b469c3daeb365261419cebcc3d8ef2ad31b00e">
+        <dex dex="C:\StudioProjects\Find the Difference 200 lvls\findtheDifference200lvls\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.2_737b04d47e648d6e5481c86255962f77e9a1b365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\1532ec84f1a618d32181bb258c7b1c9703b90af1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_463581a0b7344db98d9290e716670667b9642063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="97f755fe515cc2df375b00a998e40713c3fe3d36">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_265230287ab5edf400ee4f3cf19d71705067df17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\320a7d5a40f15a64c536926f30caa20cf671ddbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46757b799375bffce843a95eb6f475577914a9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\ede4ff8d30f8ab4c642a00d88993da91becc141b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f77cdd546854c05a002c05e8b274b73d51dbde6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\38b0d046383635775a786f64ddb9e2fc08d6a05d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_178d31f99351c646baef3fd4370645739580cf2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a8c5baf242221654410fd851e4e6a94c326e482a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\f95118f85d33b9a8c3fc5372905aea3f8ef05ffa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4a67747b21dc147718077443920b54de7230744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\5982713e6f0f83b13a87c229fd6875cbda085863\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06326a72a52782fb65fcb90fe4ee31c1bbe17539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\97807d5bb7058523f6725773a2d2eb1f3670d7a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57ca2e6c9c2960d468504e92038bf8c4ed1f6fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\6fdf03e3bbbfc82c13843f03d94029aed26f35b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3d7725c777072a5b94ec5a0c524520292e2840c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\615fb830752275b91b4aa234c4844f8fa0b685cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8569bcb8e67c467197f4d9fc0ba1e819d024566a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\e9cb1180891abf8706bf3f4721ff1d25b18ee779\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_959430787a1e287cfee600b6cf786e147bdcf708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\StudioProjects\Find the Difference 200 lvls\findtheDifference200lvls\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\StudioProjects\Find the Difference 200 lvls\findtheDifference200lvls\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e832da3b2c592be3f381962fa6e8e0abe72c629a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c3e941dcf0784e03dcc973ad2f9b7ebc100e19f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\c3afa400fa7dbaaafbd4eea7bd42d3c6431a2dcd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55530c796be6330a64e6ae649772c040c6ae778d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\9b20ce08e4c0dd17c4a5b2b9772acfec84ef6b13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2de23191b593b8ee62ac3298c0a5f3ddd392b463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\5deb0087ac0eef526c6552d1f961bb172dc12a0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3b8611ed3c30e8bca8a525735ab9fa85caccdb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\976aaaa77484bcd022702213e660f41685596f52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_494fa197ec1e14b401689f3ee0e42c6d1db25fa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\1eab162dbacc7e2ede090d1adcf06c7aabe9423f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30935553c8fba8c04254b6af9bd3bf9259f51a9b">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c341764afab16cb6f9db1012518e77f200cf6676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\9633321bf44acb06b211dedf09423436a8d3e611\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\StudioProjects\Find Differences 200 levels 2\findDifferences200levels2\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ee4144e229fd16f42c27651e5ca9bce0a90c86c\classes.dex" />
+    </item>
+
+</items>

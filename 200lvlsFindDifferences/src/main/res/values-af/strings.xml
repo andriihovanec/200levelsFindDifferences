@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 vlakke Vind verskille</string>
+    <string name="level">Vlak</string>
+    <string name="quit">Is jy seker jy wil hê om op te hou?</string>
+    <string name="yes">Ja</string>
+    <string name="later">Later</string>
+    <string name="never">Nooit</string>
+    <string name="no">Geen</string>
+    <string name="rate">Wil jy nou koers spel?</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 niveis Atopar as diferenzas</string>
+    <string name="level">Nivel</string>
+    <string name="quit">Está seguro de que quere saír?</string>
+    <string name="yes">Si</string>
+    <string name="later">Máis tarde</string>
+    <string name="never">Nunca</string>
+    <string name="no">Non</string>
+    <string name="rate">Quere votar xogo agora?</string>
+</resources>

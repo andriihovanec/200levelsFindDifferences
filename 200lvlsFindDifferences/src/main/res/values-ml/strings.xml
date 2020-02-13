@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 ലെവലുകൾ വ്യത്യാസങ്ങൾ കണ്ടെത്തുക</string>
+    <string name="level">നില</string>
+    <string name="quit">പുറത്തുകടക്കണമെന്നു് ചെയ്യണമെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ?</string>
+    <string name="yes">അതെ</string>
+    <string name="later">പിന്നീട്</string>
+    <string name="never">ഒരിക്കലും</string>
+    <string name="no">അല്ല</string>
+    <string name="rate">നിങ്ങൾ ഇപ്പോൾ ഗെയിം റേറ്റ് താല്പര്യമുണ്ടോ?</string>
+</resources>

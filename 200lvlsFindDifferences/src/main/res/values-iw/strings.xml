@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 רמות מצא את ההבדלים</string>
+    <string name="level">רמה</string>
+    <string name="quit">האם אתה בטוח שאתה רוצה לצאת?</string>
+    <string name="yes">כן</string>
+    <string name="later">מאוחר יותר</string>
+    <string name="never">אף פעם לא</string>
+    <string name="no">לא</string>
+    <string name="rate">האם אתה רוצה לדרג משחק עכשיו?</string>
+</resources>

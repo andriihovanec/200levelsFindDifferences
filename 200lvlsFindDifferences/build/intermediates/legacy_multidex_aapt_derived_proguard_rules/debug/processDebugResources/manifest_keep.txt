@@ -1,0 +1,2 @@
+# Referenced at E:\Project\WorkProject\200 levels Find Differences\200lvlsFindDifferences\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40
+-keep class com.olbigames.levels200finddifferences.AppAnalytics { <init>(...); }

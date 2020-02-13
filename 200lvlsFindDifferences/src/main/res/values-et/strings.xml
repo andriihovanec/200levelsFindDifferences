@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 taset Leia erinevused</string>
+    <string name="level">Tase</string>
+    <string name="quit">Oled sa kindel, et soovid selle sulgeda?</string>
+    <string name="yes">Jah</string>
+    <string name="later">Pärast</string>
+    <string name="never">Mitte kunagi</string>
+    <string name="no">Ei</string>
+    <string name="rate">Kas soovite Hinda mäng nüüd?</string>
+</resources>

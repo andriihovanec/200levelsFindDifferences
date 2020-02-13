@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 lygių Rasti skirtumus</string>
+    <string name="level">Lygis</string>
+    <string name="quit">Ar tikrai norite išeiti?</string>
+    <string name="yes">Taip</string>
+    <string name="later">Vėliau</string>
+    <string name="never">Niekada</string>
+    <string name="no">Ne</string>
+    <string name="rate">Ar norėtumėte vertinate žaidimą dabar?</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 livelli Trova le differenze</string>
+    <string name="level">Livello</string>
+    <string name="quit">Sei sicuro di voler uscire?</string>
+    <string name="yes">Sì</string>
+    <string name="later">Più tardi</string>
+    <string name="never">Mai</string>
+    <string name="no">Non</string>
+    <string name="rate">Vuoi votare gioco ora?</string>
+    <string name="error">Errore</string>
+    <string name="download_failed">Impossibile caricare risorse di gioco. Provare a reinstallare il supporto applicazione o il contatto.</string>
+    <string name="close">Vicino</string>
+</resources>

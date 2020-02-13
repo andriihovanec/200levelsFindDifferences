@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 səviyyələri fərqlər tapın</string>
+    <string name="level">Səviyyə</string>
+    <string name="quit">Siz çıxmaq əminsinizmi?</string>
+    <string name="yes">Bəli</string>
+    <string name="later">Sonra</string>
+    <string name="never">Heç</string>
+    <string name="no">Heç bir</string>
+    <string name="rate">Indi oyun dərəcəsi istəyirsiniz?</string>
+</resources>

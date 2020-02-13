@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 түвшин Өөрчлөлтүүдийг олох</string>
+    <string name="level">Түвшин</string>
+    <string name="quit">Та тамхинаас гарах итгэлтэй байна уу?</string>
+    <string name="yes">Тийм ээ</string>
+    <string name="later">Дараа нь</string>
+    <string name="never">Хэзээ ч</string>
+    <string name="no">Бус</string>
+    <string name="rate">Та одоо тоглоомыг үнэлэх хүсч байна уу?</string>
+</resources>

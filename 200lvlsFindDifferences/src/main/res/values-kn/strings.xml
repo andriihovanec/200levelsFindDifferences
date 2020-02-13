@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">200 ಮಟ್ಟಗಳು ವ್ಯತ್ಯಾಸಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ</string>
+    <string name="level">ಮಟ್ಟದ</string>
+    <string name="quit">ನೀವು ಬಿಟ್ಟು ಬಯಸಿದ್ದೀರಾ?</string>
+    <string name="yes">ಹೌದು</string>
+    <string name="later">ನಂತರ</string>
+    <string name="never">ಎಂದಿಗೂ</string>
+    <string name="no">ಅಲ್ಲ</string>
+    <string name="rate">ನೀವು ಈಗ ಆಟದ ರೇಟ್ ಬಯಸುವಿರಾ?</string>
+</resources>
